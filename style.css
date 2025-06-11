@@ -75,7 +75,7 @@ body{
 }
 .background1{
   height:800px;
-  background-image: url("/image4/gta-6-game-art-5k-5120x3200-14300.jpg");
+  background-image: url("image4/gta-6-game-art-5k-5120x3200-14300.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
